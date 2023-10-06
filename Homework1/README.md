@@ -26,6 +26,7 @@ Create API for following things
 ## API Reference
 
 #### 1: Add a new formula.
+Adds a new formula in formula object
 
 ```http
   POST /formula
@@ -63,7 +64,7 @@ Request Body Example:
 
 ---
 #### 2: See the inputs and outputs of a specific formula.
-
+Returns the inputs and outputs of a formula
 ```http
   GET /formulas/:fid/details
 ```
@@ -88,6 +89,7 @@ Request Body Example:
 ---
 
 #### 3: List which plans contain a specific formula.
+Returns a list of plan ID's which have that specific formula
 
 ```http
   GET /plan/formula/:fid
@@ -113,7 +115,7 @@ Request Body Example:
 ---
 
 #### 4: add new plan
-
+add a new plan in plans object
 ```http
   POST /plan
 ```
@@ -144,7 +146,7 @@ Request Body Example:
 ---
 
 #### 5: append a formula to end of a plan
-
+Adds a new formula to the end of plan
 ```http
   POST /plan/:pid/add_Formula
 ```
@@ -175,7 +177,7 @@ Request Body Example:
 
 ---
 #### 6: Replace a formula anywhere in the sequence of formulas associated with a plan.
-
+Update a specific formula in a specific plan
 ```http
   PUT /plan/:pid/formula/:fid
 ```
@@ -205,7 +207,7 @@ Request Body Example:
 
 ---
 #### 7: list of formulas containing in a plan. 
-
+Returns a list of details of formula in a plan
 ```http
   GET /plan/:pid/formulas
 ```
@@ -229,7 +231,7 @@ Request Body Example:
 
 ---
 #### 8: Delete a plan 
-
+Delete a plan from plan object
 ```http
   DELETE /plan/:pid
 ```
