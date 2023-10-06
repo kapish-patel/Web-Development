@@ -177,7 +177,7 @@ Request Body Example:
 #### 6: Replace a formula anywhere in the sequence of formulas associated with a plan.
 
 ```http
-  /plan/:pid/formula/:fid
+  PUT /plan/:pid/formula/:fid
 ```
 
 | Parameter | Description     |
@@ -207,7 +207,7 @@ Request Body Example:
 #### 7: list of formulas containing in a plan. 
 
 ```http
-  /plan/:pid/formulas
+  GET /plan/:pid/formulas
 ```
 
 | Parameter | Description     |
@@ -231,7 +231,7 @@ Request Body Example:
 #### 8: Delete a plan 
 
 ```http
-  /plan/:pid
+  DELETE /plan/:pid
 ```
 
 | Parameter | Description     |
