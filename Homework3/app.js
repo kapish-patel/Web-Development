@@ -203,12 +203,6 @@ class GridManager{
     }
 }
 
-// //fetch cols and rows from url
-// const url = window.location.href;
-
-// const { grid_columns, grid_rows } = Helper.set_Rows_Cols(url);
-// // console.log(`grid of : ${grid_columns} * ${grid_rows}`);
-
 let grid = new GridManager();
 
 const submit_btn = document.getElementById('submit-btn');
