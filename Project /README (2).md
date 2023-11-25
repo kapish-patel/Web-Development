@@ -12,7 +12,7 @@
 
 - **Add Task**
   <!-- ![Add Task Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif) -->
-  <img align="left" alt="add task gif" style="padding-right:10px; height:50px width:100px" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />
+  <img align="left" alt="add task gif" style="padding-right:10px; height:50px; width:100px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />
 
 - **Strike Task**
   ![Strike Task Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif)
