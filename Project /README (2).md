@@ -9,7 +9,7 @@
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## Demo
-<div style="display: flex; flex-direction:row;">
+<div style="display: flex; flex-direction:column;">
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif" />
