@@ -1,38 +1,34 @@
-# Your Project Name
+# Project Name
 
-## Overview
-Brief description of your project.
+![Logo]()
 
-## Features
-- **Add Task:**
-  ![Add Task Demo](link-to-your-add-task-gif)
+## Tech Stack
+<img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-- **Strike Task:**
-  ![Strike Task Demo](link-to-your-strike-task-gif)
+## Demo
 
-- **Edit Task:**
-  ![Edit Task Demo](link-to-your-edit-task-gif)
+- **Add Task**
+  ![Add Task Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif)
 
-- **Delete Task:**
-  ![Delete Task Demo](link-to-your-delete-task-gif)
+- **Strike Task**
+  ![Strike Task Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif)
 
-- **User Section:**
-  ![User Section Demo](link-to-your-user-section-gif)
+- **Edit Task**
+  ![Edit Task Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif)
 
-## Getting Started
-Provide instructions on how to set up and run your project.
+- **Delete Task**
+  ![Delete Task Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif)
 
-## Usage
-Explain how users can use your project and include any necessary screenshots or examples.
+- **User Section**
+  ![User Section Demo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif)
 
-## Technologies Used
-List the technologies or tools you used in your project.
+- Try it here: [Live Demo](https://stacks-todo.vercel.app/)
 
-## Contributing
-If you'd like to contribute to the project, provide guidelines for how others can do so.
+## Run Locally
 
-## License
-Include information about the project's license.
-
-## Acknowledgments
-Give credit to any resources, libraries, or tools that you used or were inspired by.
+1. Clone the project
+   ```bash
+   git clone https://link-to-project
