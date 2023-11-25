@@ -26,3 +26,8 @@
 1. Clone the project
    ```bash
    git clone https://link-to-project
+
+
+| TITLE | DEMO     |
+| :-------- | :------- |
+| Add | <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" /> | 
