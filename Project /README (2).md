@@ -15,6 +15,7 @@
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif" />
+</div>
     
     
 <!-- ** Try it here: [Live Demo](https://stacks-todo.vercel.app/) ** -->
