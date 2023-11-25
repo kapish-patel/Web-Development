@@ -12,19 +12,19 @@
 
 - **Add Task**
   <img align="left" alt="add task gif" style="padding-right:10px; height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />
-
+-----
 - **Strike Task**
   <img align="left" alt="add task gif" style="padding-right:10px; height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif" />
-
+-----
 - **Edit Task**
   <img align="left" alt="add task gif" style="padding-right:10px; height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif" />
-
+----
 - **Delete Task**
   <img align="left" alt="add task gif" style="padding-right:10px; height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif" />
-
+----
 - **User Section**
   <img align="left" alt="add task gif" style="padding-right:10px; height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif" />
-
+----
 - Try it here: [Live Demo](https://stacks-todo.vercel.app/)
 
 ## Run Locally
