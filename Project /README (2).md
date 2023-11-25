@@ -1,6 +1,6 @@
-# Project Name
+# Stacks
 
-![Logo]()
+![Logo](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/to-do_app/Stacks/src/assets/Stacks.png)
 
 ## Tech Stack
 <img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
