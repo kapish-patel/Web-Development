@@ -9,14 +9,38 @@
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## Demo
-<div style="display: flex; flex-direction:column;">
+<!-- <div style="display: flex; flex-direction:column;">
 ** ADD **
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif" />
-</div>
+</div> -->
+#### 1: Add a Task.
+
+| Add | <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />     |
+| :-------- | :------- |
+
+#### 2: Strike a Task.
+
+| Strike | <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif" />     |
+| :-------- | :------- |
+
+#### 3: Edit a Task.
+
+| Strike | <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif" />     |
+| :-------- | :------- |
+
+#### 4: Delete a Task.
+
+| Delete | <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif" />     |
+| :-------- | :------- |
+
+#### 5: User Information section.
+
+| Delete | <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif" />     |
+| :-------- | :------- |
     
     
 <!-- ** Try it here: [Live Demo](https://stacks-todo.vercel.app/) ** -->
