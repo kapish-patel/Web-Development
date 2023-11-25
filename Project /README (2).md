@@ -10,6 +10,7 @@
 
 ## Demo
 <div style="display: flex; flex-direction:column;">
+** ADD **
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif" />
     <img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif" />
