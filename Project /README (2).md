@@ -16,11 +16,16 @@
 
 ## Demo
 
-- Add Task ![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif)
-- Strike Task ![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif)
-- Edit Task ![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif)
-- Delete Task ![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif)
-- User section ![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif)
+- Add Task 
+![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/add_task.gif)
+- Strike Task 
+![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/strike_task.gif)
+- Edit Task 
+![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_task.gif)
+- Delete Task 
+![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/delete_task.gif)
+- User section 
+![](https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/edit_user.gif)
 
 - try here : https://stacks-todo.vercel.app/ 
 ## Run Locally
