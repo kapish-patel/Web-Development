@@ -74,7 +74,7 @@ Okie Dokie!
 
 ### Learning Phase
 
-I started learning Vue from a basic, high-level black box perspective, assuming that Vue is just a client-side JavaScript framework that helps in creating different components on a web page. [This video](https://www.youtube.com/watch?v=nhBVL41-_Cw) explains Vue in under 100 seconds.
+I started learning Vue from a basic, high-level black box perspective, assuming that Vue is just a client-side JavaScript framework that helps in creating different components on a web page. [Vue in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw) explains Vue in under 100 seconds.
 
 Moving ahead, I usually open the documentation of a framework, but when I was going through it, I felt that this documentation is not beginner-friendly. It assumes that a person who knows a framework before should be able to catch up quickly because it did not explain "what is a module," even though it is just an alias of a component. So, I started looking for a quick crash course on YouTube because it's free: [Vue Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=251s), [Vue.js Full Course](https://www.youtube.com/playlist?list=PLRAV69dS1uWTpHQgiV4rZFlnuS8XDl71A).
 
