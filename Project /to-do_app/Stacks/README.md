@@ -103,6 +103,8 @@ I took some time from my morning assignment completing routing to brainstorm ide
 
 Once I fixed what To-Do in the project, I created a sketch of how I want my application to look like with the help of pen and paper.
 
+[wireframe](<img alt="add task gif" style="height:250px; width:400px;" src="https://github.com/kapish-patel/Web-Development/blob/main/Project%20/Demos/Wireframe%20sketch.jpg"/> )
+
 Finally, I started coding by creating an application using [Vite](https://vitejs.dev).
 
 Basically, Vite creates a template project to jumpstart it.
